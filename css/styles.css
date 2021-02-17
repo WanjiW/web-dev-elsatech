@@ -1,0 +1,46 @@
+/* Website styling */
+
+body{
+
+    background-color: #ff9058;
+
+    }   
+
+.table-homepage {
+
+    text-align: center;
+
+
+}
+
+h1{
+
+    text-align: center;
+
+}
+
+h2{
+
+    text-align: center;
+    border-radius: 8px;
+
+}
+
+.logo{
+
+    align-content: right;
+
+}
+
+.picture-center{
+    
+    position:relative;
+    text-align: center;
+
+}
+
+
+.border{
+
+    position: sticky;
+}
