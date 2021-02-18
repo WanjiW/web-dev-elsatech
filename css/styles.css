@@ -44,3 +44,21 @@ h2{
 
     position: sticky;
 }
+
+.table-form{
+    
+    width: "50%";
+}
+
+.h3{
+
+    text-align: center;
+
+}
+
+.header{
+
+    text-align: right;
+    font-size: larger;
+
+}
